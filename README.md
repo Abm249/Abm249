@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and reaching for my limits
 - 🌱 I’m currently learning Ruby!
 - 💞️ I’m looking to collaborate on any project that will help change the world
-- 📫 How to reach me ...
+- 📫 How to reach me: Discord Abm#2825 or Twitter @Abm_249
 
 <!---
 Abm249/Abm249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
